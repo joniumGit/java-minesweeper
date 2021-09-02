@@ -1,0 +1,5 @@
+dev.jonium.fun.Sweeper
+id: dev.sweeper
+name: Minesweeper
+description: A Minesweeper implementation
+disabled: false
